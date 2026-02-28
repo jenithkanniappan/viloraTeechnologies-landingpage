@@ -1,6 +1,6 @@
-import Header from "../../src/section/home/Header"
-import Footer from "../../src/section/home/Footer"
-import Contact from "../../src/section/home/Contact"
+import Header from "../../src/section/header/Header"
+import Footer from "../../src/section/footer/Footer"
+import Contact from "../../src/section/contact/Contact"
 
 export const metadata = {
     metadataBase: new URL("https://www.viloratechnologies.com"),
